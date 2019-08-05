@@ -19,20 +19,12 @@ import algorithms.sequentialpatterns.spade_spam_AGP.idLists.creators.IdListCreat
 import algorithms.sequentialpatterns.spade_spam_AGP.candidatePatternsGeneration.CandidateGenerator;
 import algorithms.sequentialpatterns.spade_spam_AGP.candidatePatternsGeneration.CandidateGenerator_Qualitative;
 import algorithms.sequentialpatterns.spade_spam_AGP.dataStructures.database.SequenceDatabase;
-import algorithms.sequential_rules.cmdeogun.AlgoCMDeogun;
 import algorithms.sequential_rules.rulegrowth.AlgoERMiner;
 import algorithms.sequential_rules.rulegrowth.AlgoRULEGROWTH;
 import algorithms.sequential_rules.topseqrules_and_tns.AlgoTNS;
 import algorithms.sequential_rules.topseqrules_and_tns.Rule;
-import algorithms.associationrules.agrawal94_association_rules.AlgoAgrawalFaster94;
-import algorithms.frequentpatterns.fpgrowth.AlgoFPGrowth;
 import algorithms.frequentpatterns.negFIN.AlgoNegFIN;
 import patterns.itemset_array_integers_with_count.Itemsets;
-import algorithms.sequenceprediction.ipredict.database.Item;
-import algorithms.sequenceprediction.ipredict.database.Sequence;
-import algorithms.sequenceprediction.ipredict.database.SequenceStatsGenerator;
-import algorithms.sequenceprediction.ipredict.predictor.CPT.CPT.CPTPredictor;
-import algorithms.sequenceprediction.ipredict.predictor.CPT.CPTPlus.CPTPlusPredictor;
 
 
 public class main {
